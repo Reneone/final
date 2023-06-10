@@ -1,0 +1,374 @@
+body {
+    font-family: 'Kyiv*Type Titling';
+    position:relative;
+    width: 100%;
+    height: 1300px;
+    background-image: linear-gradient(#CB2D2D, #000000, #260909);
+
+}
+header{
+    background-image: linear-gradient(#310707, #5F1C1C, #310707);
+    width: 110%;
+    height:150px;
+   display:flex;
+   justify-content: space-around
+
+
+}
+img{
+    width:103px;
+    height:124px;
+    position:relative;
+    bottom:-15px;
+    right:-15px;
+}
+h1{
+     color:white;
+    font-family: 'Kyiv*Type Titling';
+    position:relative;
+    width:100%;
+   
+   
+
+}
+a{
+    color:lightcoral;
+    position:relative;
+    bottom:-100px;
+    left:-100px;
+    text-decoration: none;
+   background-color:black;
+   border-radius: 5px;
+
+}
+header a{
+padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 0 0 darkred;
+}
+{
+    width:50px;
+}
+main img{
+    width:250px;
+    height:200px;
+    opacity:0.5;
+    }
+.SSH2{
+position:relative;
+bottom:-00x;
+left:160p;
+
+}
+.SSH3{
+position:elative;
+bottom:-5x;
+
+}
+.SSH4{
+position:reative;
+bottom:-535x;
+left:16p;
+
+}
+.wiki{
+    font-size:35px;
+    text-align:right;
+    width:100%
+}
+section{
+    display:flex;
+    }
+    .wiki2{
+    color:white;
+    padding-top:150px;
+    font-size:32px;
+    top:50px;
+    width:100%;
+    }
+footer{
+    
+    background-image: linear-gradient(#310707, #5F1C1C, #310707);
+    width: 110%;
+    height:200px;
+   display:block;
+   justify-content: space-around;
+   text-align:center;
+
+}
+.SSH1:hover {
+    opacity: 1;
+    margin: 20px;
+    border: 3px solid red;
+}
+.SSH2:hover {
+    opacity: 1;
+    margin: 20px;
+    border: 3px solid red;
+}
+.SSH3:hover {
+    opacity: 1;
+    margin: 20px;
+    border: 3px solid red;
+}
+.SSH4:hover {
+    opacity: 1;
+    margin: 20px;
+    border: 3px solid red;
+}
+.text1{
+    padding:50px;
+}
+.text2{
+    padding:50px;
+}
+h2{
+text-align:left;
+}
+.h12{
+    text-align: center;
+}
+.fj{
+
+    font-size:30px;
+    text-align:left;
+    color:white
+}
+
+body {
+    font-family: 'Kyiv*Type Titling';
+    position:relative;
+    width: 100%;
+    height: 1300px;
+    background-image: linear-gradient(#CB2D2D, #000000, #260909);
+
+}
+header{
+    background-image: linear-gradient(#310707, #5F1C1C, #310707);
+    width: 110%;
+    height:15%;
+   display:flex;
+   justify-content: space-around
+
+
+}
+img{
+    width:103px;
+    height:124px;
+    position:relative;
+    bottom:-15px;
+    right:-15px;
+}
+h1{
+     color:white;
+    font-family: 'Kyiv*Type Titling';
+    position:relative;
+    width:100%;
+   
+   
+
+}
+a{
+    color:lightcoral;
+    position:relative;
+    bottom:-100px;
+    left:-100px;
+    text-decoration: none;
+   background-color:black;
+   border-radius: 5px;
+
+}
+header a{
+padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 0 0 darkred;
+}
+
+    
+footer{
+    
+    background-image: linear-gradient(#310707, #5F1C1C, #310707);
+    width: 110%;
+    height:15%;
+   display:block;
+   justify-content: space-around;
+   text-align:center;
+
+}
+.fj{
+
+    font-size:30px;
+    text-align:left;
+    color:white;
+}
+p{
+    font-size:25px;
+    color:white;
+}
+main{
+    height:70%
+}
+.SSH1:hover {
+    opacity: 1;
+    width:160px;
+    border: 3px solid red;
+}
+.SSH2:hover {
+    opacity: 1;
+  width:160px;
+    border: 3px solid red;
+}
+.SSH3:hover {
+    opacity: 1;
+  width:160px;
+    border: 3px solid red;
+}
+.SSH4:hover {
+    opacity: 1;
+    width:160px;
+    border: 3px solid red;
+}
+.SSH5:hover {
+    opacity: 1;
+    width:160px;
+    border: 3px solid red;
+}
+.SSH6:hover {
+    opacity: 1;
+width:160px;
+    border: 3px solid red;
+}
+.SSH7:hover {
+    opacity: 1;
+    width:160px;
+    border: 3px solid red;
+}
+.SSH8:hover {
+    opacity: 1;
+   width:160px;
+    border: 3px solid red;
+}
+.SSH1{
+    opacity:0.3
+
+}
+.SSH2{
+    opacity:0.3
+    
+}
+.SSH3{
+    opacity:0.3
+    
+}
+.SSH4{
+    opacity:0.3
+    
+}
+.SSH5{
+    opacity:0.3
+    
+}
+.SSH6{
+    opacity:0.3
+    
+}
+.SSH7{
+    opacity:0.3
+    
+}
+.SSH8{
+    opacity:0.3
+    
+}
+h2{
+    color:white;
+    font-size:20px
+}
+iframe{
+    position: relative;
+    left:100px;
+    top:25px;
+    opacity:0.3;
+}
+iframe:hover{
+border: 8px solid red;
+opacity:1;
+}
+body {
+    font-family: 'Kyiv*Type Titling';
+    position:relative;
+    width: 100%;
+    height: 900px;
+    background-image: linear-gradient(#CB2D2D, #000000, #260909);
+
+}
+header{
+    background-image: linear-gradient(#310707, #5F1C1C, #310707);
+    width: 110%;
+    height:15%;
+   display:flex;
+   justify-content: space-around
+
+
+}
+img{
+    width:103px;
+    height:124px;
+    position:relative;
+    bottom:-15px;
+    right:-15px;
+}
+h1{
+     color:white;
+    font-family: 'Kyiv*Type Titling';
+    position:relative;
+    width:100%;
+   
+   
+
+}
+a{
+    color:lightcoral;
+    position:relative;
+    bottom:-100px;
+    left:-100px;
+    text-decoration: none;
+   background-color:black;
+   border-radius: 5px;
+
+}
+header a{
+padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 0 0 darkred;
+}
+
+    
+footer{
+    
+    background-image: linear-gradient(#310707, #5F1C1C, #310707);
+    width: 110%;
+    height: 200px;
+   display:block;
+   justify-content: space-around;
+   text-align:center;
+
+
+}
+h2{
+    color:white;
+    font-size:20px;
+    padding:10px;
+    margin:10px;
+}
+.churkivon{
+    color:white
+}
+p{
+    color:white
+}
+.sssongs{
+    text-align:center;
+}
+
+
